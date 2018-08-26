@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "inferno-5.4.2-reproduce-typing-errors",
+  "version": "0.0.0",
+  "description": "Inferno TypeScript typing error in 5.4.1 and 5.4.2",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/tsc"
+  },
+  "devDependencies": {
+    "typescript": "3.0.1"
+  },
+  "dependencies": {
+    "inferno": "5.4.2"
+  }
+}
